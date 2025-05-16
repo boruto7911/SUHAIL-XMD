@@ -3,10 +3,10 @@
 </p>
 
 
+"@whiskeysockets/baileys": "github:Tennor-modz/Baileys",
 
 
-
-# SUHAIL-XMD 
+# SUHAIL-XMD/ƊᗩᖇᏦ βⲞᎩ Ɲᗴ𐊴ᙀՏ ᖘβ ᗩLꞪᗩՏIƊ
 
 l know you might that Suhail MD is a spam to your account but we have fixed all that and Suhail md is now back to be your first bot 
 
